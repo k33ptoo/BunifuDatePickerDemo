@@ -5,7 +5,7 @@
 [![N|Solid](https://bunifuframework.com/wp-content/uploads/2017/06/Bunifu-framework-logo-web.png)](https://bunifuframework.com/)
 
 ## BunifuDatePicker
-![Example](https://github.com/k33ptoo/BunifuDatePicker/blob/master/BunifuDatePicker/res/imgs/sample.gif)
+![Example](https://github.com/k33ptoo/BunifuDatePickerDemo/blob/master/res/imgs/sample.gif)
 
 This demo shows how to make use of BunifuDatePicker to it's maximum, it has custom properties including
 
@@ -21,9 +21,9 @@ This demo shows how to make use of BunifuDatePicker to it's maximum, it has cust
 Advantages of BunifuDatePicker is you can achieve your desired look with a few property changes and also give your project a modern look.
 **Screenshot**
 
-![Example](https://github.com/k33ptoo/BunifuDatePicker/blob/master/BunifuDatePicker/res/imgs/img1.png)
+![Example](https://github.com/k33ptoo/BunifuDatePickerDemo/blob/master/res/imgs/img1.png)
 
-![Example](https://github.com/k33ptoo/BunifuDatePicker/blob/master/BunifuDatePicker/res/imgs/img2.png)
+![Example](https://github.com/k33ptoo/BunifuDatePickerDemo/blob/master/res/imgs/img2.png)
 
 ## Using DatePicker Value
 BunifuDatePicker has **Value** property where you can Get or Set its value, say if you want the displayed value of the datepicker to be yesterday you can set it like
