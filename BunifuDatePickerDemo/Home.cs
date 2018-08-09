@@ -36,6 +36,10 @@ namespace BunifuDatePickerDemo
             InitializeComponent();
         }
 
-     
+        private void Home_Load(object sender, EventArgs e)
+        {
+            DateTime result = DateTime.Today.Subtract(TimeSpan.FromDays(1));
+            bunifuDatePicker1.Value = result;
+        }
     }
 }
